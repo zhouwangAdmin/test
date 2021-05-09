@@ -6,6 +6,7 @@ public class Student {
     private String password;
 
     public Student() {
+        System.out.println("1111111111111");
     }
 
     public Student(String id, String name, String password) {
