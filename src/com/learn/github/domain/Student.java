@@ -6,6 +6,7 @@ public class Student {
     private String password;
 
     private boolean gender;
+    private int age;
 
     public Student() {
         System.out.println("1111111111111");
