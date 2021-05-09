@@ -5,6 +5,8 @@ public class Student {
     private String name;
     private String password;
 
+    private String phone;
+
     public Student() {
         System.out.println("1111111111111");
     }
